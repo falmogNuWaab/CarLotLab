@@ -1,0 +1,14 @@
+C:\Users\jmitchell11\OneDrive - Knex\repos\UsedCarLot\UsedCarLot\obj\Debug\netcoreapp3.1\UsedCarLot.csproj.AssemblyReference.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\UsedCarLot\UsedCarLot\obj\Debug\netcoreapp3.1\UsedCarLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmitchell11\OneDrive - Knex\repos\UsedCarLot\UsedCarLot\obj\Debug\netcoreapp3.1\UsedCarLot.AssemblyInfoInputs.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\UsedCarLot\UsedCarLot\obj\Debug\netcoreapp3.1\UsedCarLot.AssemblyInfo.cs
+C:\Users\jmitchell11\OneDrive - Knex\repos\UsedCarLot\UsedCarLot\obj\Debug\netcoreapp3.1\UsedCarLot.csproj.CoreCompileInputs.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\UsedCarLot\UsedCarLot\bin\Debug\netcoreapp3.1\UsedCarLot.exe
+C:\Users\jmitchell11\OneDrive - Knex\repos\UsedCarLot\UsedCarLot\bin\Debug\netcoreapp3.1\UsedCarLot.deps.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\UsedCarLot\UsedCarLot\bin\Debug\netcoreapp3.1\UsedCarLot.runtimeconfig.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\UsedCarLot\UsedCarLot\bin\Debug\netcoreapp3.1\UsedCarLot.runtimeconfig.dev.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\UsedCarLot\UsedCarLot\bin\Debug\netcoreapp3.1\UsedCarLot.dll
+C:\Users\jmitchell11\OneDrive - Knex\repos\UsedCarLot\UsedCarLot\bin\Debug\netcoreapp3.1\UsedCarLot.pdb
+C:\Users\jmitchell11\OneDrive - Knex\repos\UsedCarLot\UsedCarLot\obj\Debug\netcoreapp3.1\UsedCarLot.dll
+C:\Users\jmitchell11\OneDrive - Knex\repos\UsedCarLot\UsedCarLot\obj\Debug\netcoreapp3.1\UsedCarLot.pdb
+C:\Users\jmitchell11\OneDrive - Knex\repos\UsedCarLot\UsedCarLot\obj\Debug\netcoreapp3.1\UsedCarLot.genruntimeconfig.cache
